@@ -1,0 +1,23 @@
+<?php
+$LoginSuccessful = false;
+if (isset($_SERVER['PHP_AUTH_USER']) && isset($_SERVER['PHP_AUTH_PW'])){
+    $Username = $_SERVER['PHP_AUTH_USER'];
+    $Password = $_SERVER['PHP_AUTH_PW'];
+    if ($Username == 'themenino' && $Password == 'brasil153@123'){
+        $LoginSuccessful = true;
+    }
+}
+if (!$LoginSuccessful){
+    header('WWW-Authenticate: Basic realm="Testador de CC"');
+    header('HTTP/1.0 401 Unauthorized');
+    print "Login failed!\n";
+}
+else {
+    if (file_exists("testadorlindodadlc.php")){
+          include("testadorlindodadlc.php");
+    }
+
+}
+?>
+
+

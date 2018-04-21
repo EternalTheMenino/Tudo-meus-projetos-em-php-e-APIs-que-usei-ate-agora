@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Login System v0.1a", "Loader_HRB\Login System v0.1a.vbproj", "{3F940A25-DCCE-4F99-9879-8776461324A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Debug|x86.ActiveCfg = Release|x86
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Debug|x86.Build.0 = Release|x86
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Release|x86.ActiveCfg = Release|x86
+		{3F940A25-DCCE-4F99-9879-8776461324A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BF3734-B7CD-4C91-ADE1-EECD7073DA2A}
+	EndGlobalSection
+EndGlobal

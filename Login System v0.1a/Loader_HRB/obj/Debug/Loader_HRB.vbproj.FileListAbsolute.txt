@@ -1,0 +1,16 @@
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\bin\Debug\Loader_HRB.exe.config
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\bin\Debug\Loader_HRB.exe
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\bin\Debug\Loader_HRB.pdb
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\bin\Debug\Loader_HRB.xml
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.vbprojResolveAssemblyReference.cache
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.Form1.resources
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.Resources.resources
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.vbproj.GenerateResource.Cache
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.vbproj.CoreCompileInputs.cache
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.exe
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.xml
+C:\Users\SmoLL_iCe\source\repos\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.pdb
+C:\Users\black\Desktop\loader_hrb-1\Loader_HRB\Loader_HRB\bin\Debug\Loader_HRB.exe.config
+C:\Users\black\Desktop\loader_hrb-1\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.exe
+C:\Users\black\Desktop\loader_hrb-1\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.xml
+C:\Users\black\Desktop\loader_hrb-1\Loader_HRB\Loader_HRB\obj\Debug\Loader_HRB.pdb
